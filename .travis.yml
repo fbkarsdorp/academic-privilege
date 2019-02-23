@@ -1,4 +1,7 @@
-language: generic
+language: python
+python:
+  - "3.6"
 
 script:
-  - python3 checker.py
+  - pip install pyyaml
+  - python checker.py
