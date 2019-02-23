@@ -9,9 +9,9 @@ for question_file in os.scandir('questions'):
 
         for question in data:
             if question['id'] is None:
-                raise ValueError(f'Missing ID in {question}')
+                raise ValueError('Missing ID in {}'.format(question))
             if question['question'] is None:
-                raise ValueError(f'Missing question in {question}')
+                raise ValueError('Missing question in {}'.format(question))
             if question['privileged answer'] is None:
-                raise ValueError(f'Missing answer in {question}')
+                raise ValueError('Missing answer in {}'.format(question))
     
