@@ -1,6 +1,6 @@
 # Academic Privilege
 
-[![Build Status](https://travis-ci.com/fbkarsdorp/academic-privilege.svg?branch=master)](https://travis-ci.com/fbkarsdorp/academic-privilege)
+[![Build Status](https://travis-ci.com/fbkarsdorp/academic-privilege.svg?token=6szGZirW7A2kgxnJVg7g&branch=master)](https://travis-ci.com/fbkarsdorp/academic-privilege)
 
 Contents.
 
