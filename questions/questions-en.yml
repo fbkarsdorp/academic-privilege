@@ -1,407 +1,676 @@
-- question: I have missed a rent payment because of lack of funds.
-  categories: null
-  weight: 1
-- question: Showing affection to my intimate partner in public could be dangerous to me physically.
-  categories: no
-  weight: 1
-- question: I have had to lie about my religion.
-  categories: null
-  weight: 1
-- question: I have a casual or non-permanent position.
-  categories: null
-  weight: 1
-- question: Neither of my parents is an academic.
-  categories: null
-  weight: 1
-- question: People comment on my appearance.
-  categories: null
-  weight: 1
-- question: I have no access to training opportunities.
-  categories: null
-  weight: 1
-- question: I can't use my native language at work.
-  categories: null
-  weight: 1
-- question: I was unable to study in my own country.
-  categories: null
-  weight: 1
-- question: I rely on public transportation for financial reasons.
-  categories: null
-  weight: 1
-- question: I have been forced to take roommate for financial reasons.
-  categories: null
-  weight: 1
-- question: I have an eating disorder.
-  categories: null
-  weight: 1
-- question: I have had to give up opportunities because of family responsibilities or commitments.
-  categories: null
-  weight: 1
-- question: I was bullied as a child for some aspect of my personhood.
-  categories: null
-  weight: 1
-- question: I have an invisible disability.
-  categories: null
-  weight: 1
-- question: I have a learning disability.
-  categories: null
-  weight: 1
-- question: People with my attributed or personal characteristics are more likely than others to be detained when crossing the border.
-  categories: null
-  weight: 1
-- question: I have felt unsafe because of some attributed or personal characteristic.
-  categories: null
-  weight: 1
-- question: I have an invisible disability.
-  categories: null
-  weight: 1
-- question: I have an addiction.
-  categories: null
-  weight: 1
-- question: I have gone to bed hungry.
-  categories: null
-  weight: 1
-- question: I have been sexually assaulted.
-  categories: null
-  weight: 1
-- question: People say I have an accent.
-  categories: null
-  weight: 1
-- question: I had to move far from my family to work/study.
-  categories: null
-  weight: 1
-- question: I have been shamed for my body type.
-  categories: null
-  weight: 1
-- question: My attributed or personal characteristics attract unwanted attention.
-  categories: null
-  weight: 1
-- question: I had to lie about my ethnicity.
-  categories: null
-  weight: 1
-- question: I have been treated for an addiction.
-  categories: null
-  weight: 1
-- question: Failures on my part are regularly attributed more broadly to people like me (e.g. "women can't do math").
-  categories: null
-  weight: 1
-- question: I have a visible disability.
-  categories: null
-  weight: 1
-- question: Showing affection to my intimate partner in public could damage my reputation.
-  categories: null
-  weight: 1
-- question: I have had tried to distance myself from any of my identities.
-  categories: null
-  weight: 1
-- question: I have been depressed.
-  categories: null
-  weight: 1
-- question: I expect to need a visa when I travel.
-  categories: null
-  weight: 1
-- question: I have or have student loans.
-  categories: null
-  weight: 1
-- question: People often call me bossy.
-  categories: null
-  weight: 1
-- question: I can't afford a therapist.
-  categories: null
-  weight: 1
-- question: A stranger has commented on my appearance or accent.
-  categories: null
-  weight: 1
-- question: People seem surprised when I show competency.
-  categories: null
-  weight: 1
-- question: I am nervous in airport security lines.
-  categories: null
-  weight: 1
-- question: I have had my neurotype questioned.
-  categories: null
-  weight: 1
-- question: I have been unable to pay my bills.
-  categories: null
-  weight: 1
-- question: Neither of my parents is college educated.
-  categories: null
-  weight: 1
-- question: I can't afford to rent a car.
-  categories: null
-  weight: 1
-- question: I have considered suicide.
-  categories: null
-  weight: 1
-- question: Someone has touched me without permission.
-  categories: null
-  weight: 1
-- question: People often call me aggressive.
-  categories: null
-  weight: 1
-- question: I have been the only person like me in a room.
-  categories: null
-  weight: 1
-- question: I have been homeless.
-  categories: null
-  weight: 1
-- question: My institution does not have an institutional repository.
-  categories: null
-  weight: 1
-- question: I worry about travelling alone.
-  categories: null
-  weight: 1
-- question: I have been selected for secondary passport control.
-  categories: null
-  weight: 1
-- question: I have had to support the educational costs of a sibling.
-  categories: null
-  weight: 1
-- question: I commonly plan my route in advance when I walk or take public transit.
-  categories: null
-  weight: 1
-- question: I have been violently threatened or attacked for one of my attributed
-    characteristics.
-  categories: null
-  weight: 1
-- question: I have been cyber-bullied for any of my identities.
-  categories: null
-  weight: 1
-- question: I have hidden some strength or skill I possess in order to be less threatening or to get along with others.
-  categories: null
-  weight: 1
-- question: I have had to explain to others something about my appearance, gender, sexuality, or other aspects of my personal life.
-  categories: null
-  weight: 1
-- question: I have had to educate peers about my condition.
-  categories: null
-  weight: 1
-- question: I travel internationally for pleasure at my own cost.
-  categories: null
-  weight: 1
-- question: I have heard my attributed characteristics used as an insult.
-  categories: null
-  weight: 1
-- question: I support multiple generations in my family from my paycheck.
-  categories: null
-  weight: 1
-- question: I have been self-conscious about any of my identities.
-  categories: null
-  weight: 1
-- question: My parents are separated or divorced.
-  categories: null
-  weight: 1
-- question: I have been told that my sexuality is "just a phase."
-  categories: null
-  weight: 1
-- question: I have been subject to sexual harassment on the street (i.e. been catcalled
-    or solicited).
-  categories: null
-  weight: 1
-- question: I grew up in a family that was considered poor for my country.
-  categories: null
-  weight: 1
-- question: I have been shamed for my religious beliefs.
-  categories: null
-  weight: 1
-- question: I know or suspect I earn less at my institution than colleagues with similar experience.
-  categories: null
-  weight: 1
-- question: My pronouns have been questioned.
-  categories: null
-  weight: 1
-- question: I am a native English speaker.
-  categories: null
-  weight: 1
-- question: I went to summer camp.
-  categories: null
-  weight: 1
-- question: My parents are heterosexual.
-  categories: null
-  weight: 1
-- question: I have a conference travel budget.
-  categories: null
-  weight: 1
-- question: I work/study at an academic institution.
-  categories: null
-  weight: 1
-- question: I've used prescription drugs recreationally.
-  categories: null
-  weight: 1
-- question: I went to an elite university.
-  categories: null
-  weight: 1
-- question: I have a driver's licence.
-  categories: null
-  weight: 1
-- question: One of my parents has a graduate degree.
-  categories: null
-  weight: 1
-- question: My institution gives me access to graphic design services.
-  categories: null
-  weight: 1
-- question: In my job/studies I have adequate child care.
-  categories: null
-  weight: 1
-- question: I can afford to pay so my articles are published as open access.
-  categories: null
-  weight: 1
-- question: My institution offers me free legal advice.
-  categories: null
-  weight: 1
-- question: The childcare I have access to is free.
-  categories: null
-  weight: 1
-- question: I have a PhD.
-  categories: null
-  weight: 1
-- question: My institution supports research and/or conference travel.
-  categories: null
-  weight: 1
-- question: My institution has data storage facilities.
-  categories: null
-  weight: 1
-- question: I have travelled internationally.
-  categories: null
-  weight: 1
-- question: I went to a private school.
-  categories: null
-  weight: 1
-- question: My institution will replace my computer every 3 years.
-  categories: null
-  weight: 1
-- question: I see myself reflected in mainstream media.
-  categories: null
-  weight: 1
-- question: Both of my parents are academics.
-  categories: null
-  weight: 1
-- question: My institution offers web hosting services.
-  categories: null
-  weight: 1
-- question: I have access to a library.
-  categories: null
-  weight: 1
-- question: I have elite status with an airline frequent flier plan.
-  categories: null
-  weight: 1
-- question: My institution offers grant writing support.
-  categories: null
-  weight: 1
-- question: My post is tenured.
-  categories: null
-  weight: 1
-- question: My job accommodates my religious practices.
-  categories: null
-  weight: 1
-- question: Both of my parents have graduate degrees.
-  categories: null
-  weight: 1
-- question: I went to preschool.
-  categories: null
-  weight: 1
-- question: My parents financed (at least some of) my high education costs.
-  categories: null
-  weight: 1
-- question: My post is tenure track.
-  categories: null
-  weight: 1
-- question: I can access paywalled journals.
-  categories: null
-  weight: 1
-- question: One of my parents is college educated.
-  categories: null
-  weight: 1
-- question: If required, I have access to supercomputers.
-  categories: null
-  weight: 1
-- question: My institution pays for my affiliation to professional societies.
-  categories: null
-  weight: 1
-- question: I have colleagues who are interested and supportive.
-  categories: null
-  weight: 1
-- question: My institution is committed to the maintenance of digital projects.
-  categories: null
-  weight: 1
-- question: My institution is a research institution.
-  categories: null
-  weight: 1
-- question: I had a car in high school.
-  categories: null
-  weight: 1
-- question: I work/study at an elite academic institution.
-  categories: null
-  weight: 1
-- question: I have high-speed internet.
-  categories: null
-  weight: 1
-- question: My institution offers technical support.
-  categories: null
-  weight: 1
-- question: My institution offers internal grants for startup projects.
-  categories: null
-  weight: 1
-- question: I have flexible working hours.
-  categories: null
-  weight: 1
-- question: I carry out my work in my native language.
-  categories: null
-  weight: 1
-- question: I have easy access to computers.
-  categories: null
-  weight: 1
-- question: I travel internationally at least once a year.
-  categories: null
-  weight: 1
-- question: There is a place of worship for my religion in my town.
-  categories: null
-  weight: 1
-- question: I can afford medication if/when I need it.
-  categories: null
-  weight: 1
-- question: I can request the materials I need and these will be purchased for me.
-  categories: null
-  weight: 1
-- question: I do not have any social disabilities.
-  categories: null
-  weight: 1
-- question: My institution pays for my software licenses.
-  categories: null
-  weight: 1
-- question: I have been able to make major life decisions based on my own desires.
-  categories: null
-  weight: 1
-- question: I don't worry about my colleagues finding out about my diagnosis.
-  categories: null
-  weight: 1
-- question: I have studied abroad.
-  categories: null
-  weight: 1
-- question: I have had an unpaid internship.
-  categories: null
-  weight: 1
-- question: I am alt-ac.
-  categories: null
-  weight: 1
-- question: I studied in my own language.
-  categories: null
-  weight: 1
-- question: I rely on projects to get travel funding.
-  categories: null
-  weight: 1
-- question: I work in a salaried job.
-  categories: null
-  weight: 1
-- question: I have an MA.
-  categories: null
-  weight: 1
-- question: My parents are both alive.
-  categories: null
-  weight: 1
-- question: Other people perceive me as a "Westerner."
-  categories: null
-  weight: 1
-- question: I travel internationally multiple times a year.
-  categories: null
-  weight: 1
+
+- id: 0
+  question: I have missed a rent payment because of lack of funds.
+  categories: []
+  weight: 1
+  active: true
+- id: 1
+  question: Showing affection to my intimate partner in public could be dangerous to me physically.
+  categories: []
+  weight: 1
+  active: true
+- id: 2
+  question: I have had to lie about my religion.
+  categories: []
+  weight: 1
+  active: true
+- id: 3
+  question: I have a casual or non-permanent position.
+  categories: []
+  weight: 1
+  active: true
+- id: 4
+  question: Neither of my parents is an academic.
+  categories: []
+  weight: 1
+  active: true
+- id: 5
+  question: People comment on my appearance.
+  categories: []
+  weight: 1
+  active: true
+- id: 6
+  question: I have no access to training opportunities.
+  categories: []
+  weight: 1
+  active: true
+- id: 7
+  question: I can't use my native language at work.
+  categories: []
+  weight: 1
+  active: true
+- id: 8
+  question: I was unable to study in my own country.
+  categories: []
+  weight: 1
+  active: true
+- id: 9
+  question: I rely on public transportation for financial reasons.
+  categories: []
+  weight: 1
+  active: true
+- id: 10
+  question: I have been forced to take roommate for financial reasons.
+  categories: []
+  weight: 1
+  active: true
+- id: 11
+  question: I have an eating disorder.
+  categories: []
+  weight: 1
+  active: true
+- id: 12
+  question: I have had to give up opportunities because of family responsibilities or commitments.
+  categories: []
+  weight: 1
+  active: true
+- id: 13
+  question: I was bullied as a child for some aspect of my personhood.
+  categories: []
+  weight: 1
+  active: true
+- id: 14
+  question: I have an invisible disability.
+  categories: []
+  weight: 1
+  active: true
+- id: 15
+  question: I have a learning disability.
+  categories: []
+  weight: 1
+  active: true
+- id: 16
+  question: People with my attributed or personal characteristics are more likely than others to be detained when crossing the border.
+  categories: []
+  weight: 1
+  active: true
+- id: 17
+  question: I have felt unsafe because of some attributed or personal characteristic.
+  categories: []
+  weight: 1
+  active: true
+- id: 18
+  question: I have an invisible disability.
+  categories: []
+  weight: 1
+  active: true
+- id: 19
+  question: I have an addiction.
+  categories: []
+  weight: 1
+  active: true
+- id: 20
+  question: I have gone to bed hungry.
+  categories: []
+  weight: 1
+  active: true
+- id: 21
+  question: I have been sexually assaulted.
+  categories: []
+  weight: 1
+  active: true
+- id: 22
+  question: People say I have an accent.
+  categories: []
+  weight: 1
+  active: true
+- id: 23
+  question: I had to move far from my family to work/study.
+  categories: []
+  weight: 1
+  active: true
+- id: 24
+  question: I have been shamed for my body type.
+  categories: []
+  weight: 1
+  active: true
+- id: 25
+  question: My attributed or personal characteristics attract unwanted attention.
+  categories: []
+  weight: 1
+  active: true
+- id: 26
+  question: I had to lie about my ethnicity.
+  categories: []
+  weight: 1
+  active: true
+- id: 27
+  question: I have been treated for an addiction.
+  categories: []
+  weight: 1
+  active: true
+- id: 28
+  question: Failures on my part are regularly attributed more broadly to people like me (e.g. "women can't do math").
+  categories: []
+  weight: 1
+  active: true
+- id: 29
+  question: I have a visible disability.
+  categories: []
+  weight: 1
+  active: true
+- id: 30
+  question: Showing affection to my intimate partner in public could damage my reputation.
+  categories: []
+  weight: 1
+  active: true
+- id: 31
+  question: I have had tried to distance myself from any of my identities.
+  categories: []
+  weight: 1
+  active: true
+- id: 32
+  question: I have been depressed.
+  categories: []
+  weight: 1
+  active: true
+- id: 33
+  question: I expect to need a visa when I travel.
+  categories: []
+  weight: 1
+  active: true
+- id: 34
+  question: I have or have student loans.
+  categories: []
+  weight: 1
+  active: true
+- id: 35
+  question: People often call me bossy.
+  categories: []
+  weight: 1
+  active: true
+- id: 36
+  question: I can't afford a therapist.
+  categories: []
+  weight: 1
+  active: true
+- id: 37
+  question: A stranger has commented on my appearance or accent.
+  categories: []
+  weight: 1
+  active: true
+- id: 38
+  question: People seem surprised when I show competency.
+  categories: []
+  weight: 1
+  active: true
+- id: 39
+  question: I am nervous in airport security lines.
+  categories: []
+  weight: 1
+  active: true
+- id: 40
+  question: I have had my neurotype questioned.
+  categories: []
+  weight: 1
+  active: true
+- id: 41
+  question: I have been unable to pay my bills.
+  categories: []
+  weight: 1
+  active: true
+- id: 42
+  question: Neither of my parents is college educated.
+  categories: []
+  weight: 1
+  active: true
+- id: 43
+  question: I can't afford to rent a car.
+  categories: []
+  weight: 1
+  active: true
+- id: 44
+  question: I have considered suicide.
+  categories: []
+  weight: 1
+  active: true
+- id: 45
+  question: Someone has touched me without permission.
+  categories: []
+  weight: 1
+  active: true
+- id: 46
+  question: People often call me aggressive.
+  categories: []
+  weight: 1
+  active: true
+- id: 47
+  question: I have been the only person like me in a room.
+  categories: []
+  weight: 1
+  active: true
+- id: 48
+  question: I have been homeless.
+  categories: []
+  weight: 1
+  active: true
+- id: 49
+  question: My institution does not have an institutional repository.
+  categories: []
+  weight: 1
+  active: true
+- id: 50
+  question: I worry about travelling alone.
+  categories: []
+  weight: 1
+  active: true
+- id: 51
+  question: I have been selected for secondary passport control.
+  categories: []
+  weight: 1
+  active: true
+- id: 52
+  question: I have had to support the educational costs of a sibling.
+  categories: []
+  weight: 1
+  active: true
+- id: 53
+  question: I commonly plan my route in advance when I walk or take public transit.
+  categories: []
+  weight: 1
+  active: true
+- id: 54
+  question: I have been violently threatened or attacked for one of my attributed characteristics.
+  categories: []
+  weight: 1
+  active: true
+- id: 55
+  question: I have been cyber-bullied for any of my identities.
+  categories: []
+  weight: 1
+  active: true
+- id: 56
+  question: I have hidden some strength or skill I possess in order to be less threatening or to get along with others.
+  categories: []
+  weight: 1
+  active: true
+- id: 57
+  question: I have had to explain to others something about my appearance, gender, sexuality, or other aspects of my personal life.
+  categories: []
+  weight: 1
+  active: true
+- id: 58
+  question: I have had to educate peers about my condition.
+  categories: []
+  weight: 1
+  active: true
+- id: 59
+  question: I travel internationally for pleasure at my own cost.
+  categories: []
+  weight: 1
+  active: true
+- id: 60
+  question: I have heard my attributed characteristics used as an insult.
+  categories: []
+  weight: 1
+  active: true
+- id: 61
+  question: I support multiple generations in my family from my paycheck.
+  categories: []
+  weight: 1
+  active: true
+- id: 62
+  question: I have been self-conscious about any of my identities.
+  categories: []
+  weight: 1
+  active: true
+- id: 63
+  question: My parents are separated or divorced.
+  categories: []
+  weight: 1
+  active: true
+- id: 64
+  question: I have been told that my sexuality is "just a phase."
+  categories: []
+  weight: 1
+  active: true
+- id: 65
+  question: I have been subject to sexual harassment on the street (i.e. been catcalled or solicited).
+  categories: []
+  weight: 1
+  active: true
+- id: 66
+  question: I grew up in a family that was considered poor for my country.
+  categories: []
+  weight: 1
+  active: true
+- id: 67
+  question: I have been shamed for my religious beliefs.
+  categories: []
+  weight: 1
+  active: true
+- id: 68
+  question: I know or suspect I earn less at my institution than colleagues with similar experience.
+  categories: []
+  weight: 1
+  active: true
+- id: 69
+  question: My pronouns have been questioned.
+  categories: []
+  weight: 1
+  active: true
+- id: 70
+  question: I am a native English speaker.
+  categories: []
+  weight: 1
+  active: true
+- id: 71
+  question: I went to summer camp.
+  categories: []
+  weight: 1
+  active: true
+- id: 72
+  question: My parents are heterosexual.
+  categories: []
+  weight: 1
+  active: true
+- id: 73
+  question: I have a conference travel budget.
+  categories: []
+  weight: 1
+  active: true
+- id: 74
+  question: I work/study at an academic institution.
+  categories: []
+  weight: 1
+  active: true
+- id: 75
+  question: I've used prescription drugs recreationally.
+  categories: []
+  weight: 1
+  active: true
+- id: 76
+  question: I went to an elite university.
+  categories: []
+  weight: 1
+  active: true
+- id: 77
+  question: I have a driver's licence.
+  categories: []
+  weight: 1
+  active: true
+- id: 78
+  question: One of my parents has a graduate degree.
+  categories: []
+  weight: 1
+  active: true
+- id: 79
+  question: My institution gives me access to graphic design services.
+  categories: []
+  weight: 1
+  active: true
+- id: 80
+  question: In my job/studies I have adequate child care.
+  categories: []
+  weight: 1
+  active: true
+- id: 81
+  question: I can afford to pay so my articles are published as open access.
+  categories: []
+  weight: 1
+  active: true
+- id: 82
+  question: My institution offers me free legal advice.
+  categories: []
+  weight: 1
+  active: true
+- id: 83
+  question: The childcare I have access to is free.
+  categories: []
+  weight: 1
+  active: true
+- id: 84
+  question: I have a PhD.
+  categories: []
+  weight: 1
+  active: true
+- id: 85
+  question: My institution supports research and/or conference travel.
+  categories: []
+  weight: 1
+  active: true
+- id: 86
+  question: My institution has data storage facilities.
+  categories: []
+  weight: 1
+  active: true
+- id: 87
+  question: I have travelled internationally.
+  categories: []
+  weight: 1
+  active: true
+- id: 88
+  question: I went to a private school.
+  categories: []
+  weight: 1
+  active: true
+- id: 89
+  question: My institution will replace my computer every 3 years.
+  categories: []
+  weight: 1
+  active: true
+- id: 90
+  question: I see myself reflected in mainstream media.
+  categories: []
+  weight: 1
+  active: true
+- id: 91
+  question: Both of my parents are academics.
+  categories: []
+  weight: 1
+  active: true
+- id: 92
+  question: My institution offers web hosting services.
+  categories: []
+  weight: 1
+  active: true
+- id: 93
+  question: I have access to a library.
+  categories: []
+  weight: 1
+  active: true
+- id: 94
+  question: I have elite status with an airline frequent flier plan.
+  categories: []
+  weight: 1
+  active: true
+- id: 95
+  question: My institution offers grant writing support.
+  categories: []
+  weight: 1
+  active: true
+- id: 96
+  question: My post is tenured.
+  categories: []
+  weight: 1
+  active: true
+- id: 97
+  question: My job accommodates my religious practices.
+  categories: []
+  weight: 1
+  active: true
+- id: 98
+  question: Both of my parents have graduate degrees.
+  categories: []
+  weight: 1
+  active: true
+- id: 99
+  question: I went to preschool.
+  categories: []
+  weight: 1
+  active: true
+- id: 100
+  question: My parents financed (at least some of) my high education costs.
+  categories: []
+  weight: 1
+  active: true
+- id: 101
+  question: My post is tenure track.
+  categories: []
+  weight: 1
+  active: true
+- id: 102
+  question: I can access paywalled journals.
+  categories: []
+  weight: 1
+  active: true
+- id: 103
+  question: One of my parents is college educated.
+  categories: []
+  weight: 1
+  active: true
+- id: 104
+  question: If required, I have access to supercomputers.
+  categories: []
+  weight: 1
+  active: true
+- id: 105
+  question: My institution pays for my affiliation to professional societies.
+  categories: []
+  weight: 1
+  active: true
+- id: 106
+  question: I have colleagues who are interested and supportive.
+  categories: []
+  weight: 1
+  active: true
+- id: 107
+  question: My institution is committed to the maintenance of digital projects.
+  categories: []
+  weight: 1
+  active: true
+- id: 108
+  question: My institution is a research institution.
+  categories: []
+  weight: 1
+  active: true
+- id: 109
+  question: I had a car in high school.
+  categories: []
+  weight: 1
+  active: true
+- id: 110
+  question: I work/study at an elite academic institution.
+  categories: []
+  weight: 1
+  active: true
+- id: 111
+  question: I have high-speed internet.
+  categories: []
+  weight: 1
+  active: true
+- id: 112
+  question: My institution offers technical support.
+  categories: []
+  weight: 1
+  active: true
+- id: 113
+  question: My institution offers internal grants for startup projects.
+  categories: []
+  weight: 1
+  active: true
+- id: 114
+  question: I have flexible working hours.
+  categories: []
+  weight: 1
+  active: true
+- id: 115
+  question: I carry out my work in my native language.
+  categories: []
+  weight: 1
+  active: true
+- id: 116
+  question: I have easy access to computers.
+  categories: []
+  weight: 1
+  active: true
+- id: 117
+  question: I travel internationally at least once a year.
+  categories: []
+  weight: 1
+  active: true
+- id: 118
+  question: There is a place of worship for my religion in my town.
+  categories: []
+  weight: 1
+  active: true
+- id: 119
+  question: I can afford medication if/when I need it.
+  categories: []
+  weight: 1
+  active: true
+- id: 120
+  question: I can request the materials I need and these will be purchased for me.
+  categories: []
+  weight: 1
+  active: true
+- id: 121
+  question: I do not have any social disabilities.
+  categories: []
+  weight: 1
+  active: true
+- id: 122
+  question: My institution pays for my software licenses.
+  categories: []
+  weight: 1
+  active: true
+- id: 123
+  question: I have been able to make major life decisions based on my own desires.
+  categories: []
+  weight: 1
+  active: true
+- id: 124
+  question: I don't worry about my colleagues finding out about my diagnosis.
+  categories: []
+  weight: 1
+  active: true
+- id: 125
+  question: I have studied abroad.
+  categories: []
+  weight: 1
+  active: true
+- id: 126
+  question: I have had an unpaid internship.
+  categories: []
+  weight: 1
+  active: true
+- id: 127
+  question: I am alt-ac.
+  categories: []
+  weight: 1
+  active: true
+- id: 128
+  question: I studied in my own language.
+  categories: []
+  weight: 1
+  active: true
+- id: 129
+  question: I rely on projects to get travel funding.
+  categories: []
+  weight: 1
+  active: true
+- id: 130
+  question: I work in a salaried job.
+  categories: []
+  weight: 1
+  active: true
+- id: 131
+  question: I have an MA.
+  categories: []
+  weight: 1
+  active: true
+- id: 132
+  question: My parents are both alive.
+  categories: []
+  weight: 1
+  active: true
+- id: 133
+  question: Other people perceive me as a "Westerner."
+  categories: []
+  weight: 1
+  active: true
+- id: 134
+  question: I travel internationally multiple times a year.
+  categories: []
+  weight: 1
+  active: true
