@@ -14,10 +14,8 @@ for detailed documentation). Each file consists of a series of questions, which 
 adhere to the following schema:
 
 ``` yaml
-- id: id-number
-  question: The actual question presented to the participants
-  privileged answer: the answer (yes or no) indicating a privileged response to the question
-  category: a list of categories this question belongs to, e.g., [sexuality, language, education]
+- question: The actual question presented to the participants
+  categories: a list of categories this question belongs to, e.g., [sexuality, language, education]
   weight: a weight on a scale of 1 to 5 reflecting the importance of this question
 ```
 
