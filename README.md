@@ -14,9 +14,11 @@ for detailed documentation). Each file consists of a series of questions, which 
 adhere to the following schema:
 
 ``` yaml
-- question: The actual question presented to the participants
+- id: the id of the question as an integer, e.g.: 1
+  question: The actual question presented to the participants
   categories: a list of categories this question belongs to, e.g., [sexuality, language, education]
   weight: a weight on a scale of 1 to 5 reflecting the importance of this question
+  active: true or false
 ```
 
 ## Contributing
