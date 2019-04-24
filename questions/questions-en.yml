@@ -206,417 +206,416 @@
   active: true
 - id: 41
   question: I have been unable to pay my bills.
-  categories: []
+  categories: [Wealth]
   weight: 1
   active: true
 - id: 42
   question: Neither of my parents is college educated.
-  categories: []
+  categories: [Class, Family status, Wealth]
   weight: 1
   active: true
 - id: 43
   question: I can't afford to rent a car.
-  categories: []
+  categories: [Wealth]
   weight: 1
   active: true
 - id: 44
   question: I have considered suicide.
-  categories: []
+  categories: [Ability, Health]
   weight: 1
   active: true
 - id: 45
   question: Someone has touched me without permission.
-  categories: []
+  categories: [Ethnicity, Gender, LGBTQ]
   weight: 1
   active: true
 - id: 46
   question: People often call me aggressive.
-  categories: []
+  categories: [Ethnicity, Gender, LGBTQ, Non-Anglophone]
   weight: 1
   active: true
 - id: 47
   question: I have been the only person like me in a room.
-  categories: []
+  categories: [Ability, Class, Ethnicity, Gender, LGBTQ, Non-Anglophone, Religion, Wealth]
   weight: 1
   active: true
 - id: 48
   question: I have been homeless.
-  categories: []
+  categories: [Family status, Wealth]
   weight: 1
   active: true
 - id: 49
   question: My institution does not have an institutional repository.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 50
   question: I worry about travelling alone.
-  categories: []
+  categories: [Ability, Ethnicity, Gender, LGBTQ, Non-Anglophone]
   weight: 1
   active: true
 - id: 51
   question: I have been selected for secondary passport control.
-  categories: []
+  categories: [Class, Ethnicity, Global South, Non-Anglophone, Religion]
   weight: 1
   active: true
 - id: 52
   question: I have had to support the educational costs of a sibling.
-  categories: []
+  categories: [Class, Wealth]
   weight: 1
   active: true
 - id: 53
   question: I commonly plan my route in advance when I walk or take public transit.
-  categories: []
+  categories: [Ability, Ethnicity, Gender, LGBTQ, Religion]
   weight: 1
   active: true
 - id: 54
   question: I have been violently threatened or attacked for one of my attributed characteristics.
-  categories: []
+  categories: [Ethnicity, Gender, LGBTQ]
   weight: 1
   active: true
 - id: 55
   question: I have been cyber-bullied for any of my identities.
-  categories: []
+  categories: [Ability, Ethnicity, Gender, LGBTQ]
   weight: 1
   active: true
 - id: 56
   question: I have hidden some strength or skill I possess in order to be less threatening or to get along with others.
-  categories: []
+  categories: [Gender, Health, LGBTQ]
   weight: 1
   active: true
 - id: 57
   question: I have had to explain to others something about my appearance, gender, sexuality, or other aspects of my personal life.
-  categories: []
+  categories: [Ability, Ethnicity, Gender, Health, LGBTQ, Religion]
   weight: 1
   active: true
 - id: 58
   question: I have had to educate peers about my condition.
-  categories: []
+  categories: [Ability, Health]
   weight: 1
   active: true
 - id: 59
   question: I travel internationally for pleasure at my own cost.
-  categories: []
+  categories: [Wealth]
   weight: 1
   active: true
 - id: 60
   question: I have heard my attributed characteristics used as an insult.
-  categories: []
+  categories: [Ethnicity, Gender, LGBTQ]
   weight: 1
   active: true
 - id: 61
   question: I support multiple generations in my family from my paycheck.
-  categories: []
+  categories: [Class, Family status, Wealth]
   weight: 1
   active: true
 - id: 62
   question: I have been self-conscious about any of my identities.
-  categories: []
+  categories: [Ability, Gender, LGBTQ]
   weight: 1
   active: true
 - id: 63
   question: My parents are separated or divorced.
-  categories: []
+  categories: [Family status]
   weight: 1
   active: true
 - id: 64
   question: I have been told that my sexuality is "just a phase."
-  categories: []
+  categories: [LGBTQ]
   weight: 1
   active: true
 - id: 65
   question: I have been subject to sexual harassment on the street (i.e. been catcalled or solicited).
-  categories: []
+  categories: [Ethnicity, Gender, LGBTQ]
   weight: 1
   active: true
 - id: 66
   question: I grew up in a family that was considered poor for my country.
-  categories: []
+  categories: [Class, Wealth]
   weight: 1
   active: true
 - id: 67
   question: I have been shamed for my religious beliefs.
-  categories: []
+  categories: [Religion]
   weight: 1
   active: true
 - id: 68
   question: I know or suspect I earn less at my institution than colleagues with similar experience.
-  categories: []
+  categories: [Ethnicity, Gender, LGBTQ]
   weight: 1
   active: true
 - id: 69
   question: My pronouns have been questioned.
-  categories: []
+  categories: [LGBTQ]
   weight: 1
   active: true
 - id: 70
   question: I am a native English speaker.
-  categories: []
+  categories: [Global South, Language, Non-Anglophone]
   weight: 1
   active: true
 - id: 71
   question: I went to summer camp.
-  categories: []
+  categories: [Class, Wealth]
   weight: 1
   active: true
 - id: 72
   question: My parents are heterosexual.
-  categories: []
+  categories: [Family status, Gender, LGBTQ]
   weight: 1
   active: true
 - id: 73
   question: I have a conference travel budget.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 74
   question: I work/study at an academic institution.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 75
   question: I've used prescription drugs recreationally.
-  categories: []
+  categories: [Class, Wealth]
   weight: 1
   active: true
 - id: 76
   question: I went to an elite university.
-  categories: []
+  categories: [Academic/Employment Status, Class, Wealth]
   weight: 1
   active: true
 - id: 77
   question: I have a driver's licence.
-  categories: []
+  categories: [Ability, Health, Wealth]
   weight: 1
   active: true
 - id: 78
   question: One of my parents has a graduate degree.
-  categories: []
+  categories: [Academic/Employment Status, Family status]
   weight: 1
   active: true
 - id: 79
   question: My institution gives me access to graphic design services.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 80
   question: In my job/studies I have adequate child care.
-  categories: []
+  categories: [Academic/Employment Status, Class, Gender, Wealth]
   weight: 1
   active: true
 - id: 81
   question: I can afford to pay so my articles are published as open access.
-  categories: []
+  categories: [Academic/Employment Status, Wealth]
   weight: 1
   active: true
 - id: 82
   question: My institution offers me free legal advice.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 83
   question: The childcare I have access to is free.
-  categories: []
+  categories: [Academic/Employment Status, Class, Gender, Wealth]
   weight: 1
   active: true
 - id: 84
   question: I have a PhD.
-  categories: []
+  categories: [Academic/Employment Status, Class, Wealth]
   weight: 1
   active: true
 - id: 85
   question: My institution supports research and/or conference travel.
-  categories: []
+  categories: [Academic/Employment Status, Class, Global South, Wealth]
   weight: 1
   active: true
 - id: 86
   question: My institution has data storage facilities.
-  categories: []
+  categories: [Academic/Employment Status, Class, Global South, Wealth]
   weight: 1
   active: true
 - id: 87
   question: I have travelled internationally.
-  categories: []
+  categories: [Academic/Employment Status, Class, Wealth]
   weight: 1
   active: true
 - id: 88
   question: I went to a private school.
-  categories: []
+  categories: [Academic/Employment Status, Class, Religion, Wealth]
   weight: 1
   active: true
 - id: 89
   question: My institution will replace my computer every 3 years.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 90
   question: I see myself reflected in mainstream media.
-  categories: []
+  categories: [Ability, Class, Ethnicity, Family Status, Gender, Global South, Health, Language, LGBTQ, Wealth]
   weight: 1
   active: true
 - id: 91
   question: Both of my parents are academics.
-  categories: []
+  categories: [Academic/Employment Status, Class, Family Status, Wealth]
   weight: 1
   active: true
 - id: 92
   question: My institution offers web hosting services.
-  categories: []
+  categories: [Academic/Employment Status, Global South]
   weight: 1
   active: true
 - id: 93
   question: I have access to a library.
-  categories: []
+  categories: [Academic/Employment Status, Class, Global South, Wealth]
   weight: 1
   active: true
 - id: 94
   question: I have elite status with an airline frequent flier plan.
-  categories: []
+  categories: [Academic/Employment Status, Class, Wealth]
   weight: 1
   active: true
 - id: 95
   question: My institution offers grant writing support.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 96
   question: My post is tenured.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 97
   question: My job accommodates my religious practices.
-  categories: []
+  categories: [Class, Ethnicity, Religion]
   weight: 1
   active: true
 - id: 98
   question: Both of my parents have graduate degrees.
-  categories: []
+  categories: [Class, Family Status, Wealth]
   weight: 1
   active: true
 - id: 99
   question: I went to preschool.
-  categories: []
+  categories: [Class, Family Status, Wealth]
   weight: 1
   active: true
 - id: 100
   question: My parents financed (at least some of) my high education costs.
-  categories: []
+  categories: [Class, Family Status, Wealth]
   weight: 1
   active: true
 - id: 101
   question: My post is tenure track.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 102
   question: I can access paywalled journals.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 103
   question: One of my parents is college educated.
-  categories: []
-  weight: 1
+  categories: [Family Status]
   active: true
 - id: 104
   question: If required, I have access to supercomputers.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 105
   question: My institution pays for my affiliation to professional societies.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 106
   question: I have colleagues who are interested and supportive.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 107
   question: My institution is committed to the maintenance of digital projects.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 108
   question: My institution is a research institution.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 109
   question: I had a car in high school.
-  categories: []
+  categories: [Class, Family Status, Wealth]
   weight: 1
   active: true
 - id: 110
   question: I work/study at an elite academic institution.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 111
   question: I have high-speed internet.
-  categories: []
+  categories: [Wealth]
   weight: 1
   active: true
 - id: 112
   question: My institution offers technical support.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 113
   question: My institution offers internal grants for startup projects.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 114
   question: I have flexible working hours.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 115
   question: I carry out my work in my native language.
-  categories: []
+  categories: [Language, Non-Anglophone]
   weight: 1
   active: true
 - id: 116
   question: I have easy access to computers.
-  categories: []
+  categories: [Academic/Employment Status, Wealth]
   weight: 1
   active: true
 - id: 117
   question: I travel internationally at least once a year.
-  categories: []
+  categories: [Academic/Employment Status, Family status, Wealth]
   weight: 1
   active: true
 - id: 118
   question: There is a place of worship for my religion in my town.
-  categories: []
+  categories: [Religion]
   weight: 1
   active: true
 - id: 119
   question: I can afford medication if/when I need it.
-  categories: []
+  categories: [Health, Wealth]
   weight: 1
   active: true
 - id: 120
   question: I can request the materials I need and these will be purchased for me.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 121
   question: I do not have any social disabilities.
-  categories: []
+  categories: [Ability, Health]
   weight: 1
   active: true
 - id: 122
   question: My institution pays for my software licenses.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 123
   question: I have been able to make major life decisions based on my own desires.
-  categories: []
+  categories: [Wealth]
   weight: 1
   active: true
 - id: 124
