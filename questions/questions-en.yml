@@ -1,207 +1,207 @@
 
 - id: 0
   question: I have missed a rent payment because of lack of funds.
-  categories: []
+  categories: [Wealth]
   weight: 1
   active: true
 - id: 1
   question: Showing affection to my intimate partner in public could be dangerous to me physically.
-  categories: []
+  categories: [Family status, Gender, LGBTQ, Religion]
   weight: 1
   active: true
 - id: 2
   question: I have had to lie about my religion.
-  categories: []
+  categories: [Ethnicity, Religion]
   weight: 1
   active: true
 - id: 3
   question: I have a casual or non-permanent position.
-  categories: []
+  categories: [Academic/Employment Status, Gender]
   weight: 1
   active: true
 - id: 4
   question: Neither of my parents is an academic.
-  categories: []
+  categories: [Class, Family status, Wealth]
   weight: 1
   active: true
 - id: 5
   question: People comment on my appearance.
-  categories: []
+  categories: [Ethnicity, Gender, LGBTQ]
   weight: 1
   active: true
 - id: 6
   question: I have no access to training opportunities.
-  categories: []
+  categories: [Academic/Employment Status, Class, Global South, Wealth]
   weight: 1
   active: true
 - id: 7
   question: I can't use my native language at work.
-  categories: []
+  categories: [Global South, Language, Non-Anglophone]
   weight: 1
   active: true
 - id: 8
   question: I was unable to study in my own country.
-  categories: []
+  categories: [Global South]
   weight: 1
   active: true
 - id: 9
   question: I rely on public transportation for financial reasons.
-  categories: []
+  categories: [Wealth]
   weight: 1
   active: true
 - id: 10
   question: I have been forced to take roommate for financial reasons.
-  categories: []
+  categories: [Wealth]
   weight: 1
   active: true
 - id: 11
   question: I have an eating disorder.
-  categories: []
+  categories: [Gender, Health]
   weight: 1
   active: true
 - id: 12
   question: I have had to give up opportunities because of family responsibilities or commitments.
-  categories: []
+  categories: [Family status, Wealth]
   weight: 1
   active: true
 - id: 13
   question: I was bullied as a child for some aspect of my personhood.
-  categories: []
+  categories: [Class, Ethnicity, Family status, Health, Language, LGBTQ]
   weight: 1
   active: true
 - id: 14
   question: I have an invisible disability.
-  categories: []
+  categories: [Ability, Health]
   weight: 1
   active: true
 - id: 15
   question: I have a learning disability.
-  categories: []
+  categories: [Ability]
   weight: 1
   active: true
 - id: 16
   question: People with my attributed or personal characteristics are more likely than others to be detained when crossing the border.
-  categories: []
+  categories: [Ethnicity, Non-Anglophone, Wealth]
   weight: 1
   active: true
 - id: 17
   question: I have felt unsafe because of some attributed or personal characteristic.
-  categories: []
+  categories: [Ability, Class, Ethnicity, Family status, Gender, Global South, Health, Language, LGBTQ, Non-Anglophone, Religion]
   weight: 1
   active: true
 - id: 18
-  question: I have an invisible disability.
-  categories: []
+  question: I have or had high interest study loans.
+  categories: [Global South]
   weight: 1
   active: true
 - id: 19
   question: I have an addiction.
-  categories: []
+  categories: [Ability, Health]
   weight: 1
   active: true
 - id: 20
   question: I have gone to bed hungry.
-  categories: []
+  categories: [Academic/Employment Status, Family status, Wealth]
   weight: 1
   active: true
 - id: 21
   question: I have been sexually assaulted.
-  categories: []
+  categories: [Ability, Gender, LGBTQ]
   weight: 1
   active: true
 - id: 22
   question: People say I have an accent.
-  categories: []
+  categories: [Class, Global South, Language, Non-Anglophone]
   weight: 1
   active: true
 - id: 23
   question: I had to move far from my family to work/study.
-  categories: []
+  categories: [Global South]
   weight: 1
   active: true
 - id: 24
   question: I have been shamed for my body type.
-  categories: []
+  categories: [Ability, Gender, LGBTQ, Health]
   weight: 1
   active: true
 - id: 25
   question: My attributed or personal characteristics attract unwanted attention.
-  categories: []
+  categories: [Ability, Gender, LGBTQ, Health]
   weight: 1
   active: true
 - id: 26
   question: I had to lie about my ethnicity.
-  categories: []
+  categories: [Ethnicity]
   weight: 1
   active: true
 - id: 27
   question: I have been treated for an addiction.
-  categories: []
+  categories: [Ability, Health]
   weight: 1
   active: true
 - id: 28
   question: Failures on my part are regularly attributed more broadly to people like me (e.g. "women can't do math").
-  categories: []
+  categories: [Ability, Class, Ethnicity, Gender, Global South, LGBTQ, Non-Anglophone, Religion, Wealth]
   weight: 1
   active: true
 - id: 29
   question: I have a visible disability.
-  categories: []
+  categories: [Ability, Health]
   weight: 1
   active: true
 - id: 30
   question: Showing affection to my intimate partner in public could damage my reputation.
-  categories: []
+  categories: [Gender]
   weight: 1
   active: true
 - id: 31
   question: I have had tried to distance myself from any of my identities.
-  categories: []
+  categories: [Gender, LGBTQ, Ethnicity]
   weight: 1
   active: true
 - id: 32
   question: I have been depressed.
-  categories: []
+  categories: [Ability, Health]
   weight: 1
   active: true
 - id: 33
   question: I expect to need a visa when I travel.
-  categories: []
+  categories: [Global South]
   weight: 1
   active: true
 - id: 34
-  question: I have or have student loans.
-  categories: []
+  question: I had or have student loans.
+  categories: [Class]
   weight: 1
   active: true
 - id: 35
   question: People often call me bossy.
-  categories: []
+  categories: [Gender, LGBTQ, Ethnicity]
   weight: 1
   active: true
 - id: 36
   question: I can't afford a therapist.
-  categories: []
+  categories: [Class, Health, Wealth]
   weight: 1
   active: true
 - id: 37
   question: A stranger has commented on my appearance or accent.
-  categories: []
+  categories: [Gender, LGBTQ, Non-Anglophone, Religion]
   weight: 1
   active: true
 - id: 38
   question: People seem surprised when I show competency.
-  categories: []
+  categories: [Ability, Ethnicity, Gender, Global South, LGBTQ, Non-Anglophone]
   weight: 1
   active: true
 - id: 39
   question: I am nervous in airport security lines.
-  categories: []
+  categories: [Global South, LGBTQ, Non-Anglophone, Religion]
   weight: 1
   active: true
 - id: 40
   question: I have had my neurotype questioned.
-  categories: []
+  categories: [Ability]
   weight: 1
   active: true
 - id: 41
