@@ -12,6 +12,10 @@ for question_file in os.scandir('questions'):
                 raise ValueError('Missing ID in {}'.format(question))
             if question['question'] is None:
                 raise ValueError('Missing question in {}'.format(question))
-            if question['privileged answer'] is None:
+            if question['answer'] is None:
+                raise ValueError('Missing answer in {}'.format(question))
+            if question['status'] is None:
+                raise ValueError('Missing answer in {}'.format(question))
+            if question['weight'] is None:
                 raise ValueError('Missing answer in {}'.format(question))
     
