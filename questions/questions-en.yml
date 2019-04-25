@@ -771,7 +771,7 @@
   question: I studied in my own language.
   categories: [Academic/Employment Status, Class, Global South, Family status, Wealth]
   weight: 1
- answer: no answer  
+  answer: no answer  
   active: true
 - id: 129
   question: I rely on projects to get travel funding.
