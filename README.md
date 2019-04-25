@@ -19,6 +19,7 @@ adhere to the following schema:
   categories: a list of categories this question belongs to, e.g., [sexuality, language, education]
   weight: a weight on a scale of 1 to 5 reflecting the importance of this question
   active: true or false
+  privilege answer: yes or no
 ```
 
 ## Contributing
