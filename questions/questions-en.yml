@@ -180,8 +180,8 @@
   weight: 1
   active: true
 - id: 36
-  question: I can't afford a therapist.
-  categories: [Class, Health, Wealth]
+  question: I worry about my colleagues finding out about my diagnosis.
+  categories: [Health]
   weight: 1
   active: true
 - id: 37
@@ -619,57 +619,57 @@
   weight: 1
   active: true
 - id: 124
-  question: I don't worry about my colleagues finding out about my diagnosis.
-  categories: []
+  question: I can afford a therapist
+  categories: [Academic/Employment Status, Family status, Wealth]
   weight: 1
   active: true
 - id: 125
   question: I have studied abroad.
-  categories: []
+  categories: [Class, Family status, Wealth]
   weight: 1
   active: true
 - id: 126
   question: I have had an unpaid internship.
-  categories: []
+  categories: [Class, Family status, Wealth]
   weight: 1
   active: true
 - id: 127
   question: I am alt-ac.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 128
   question: I studied in my own language.
-  categories: []
+  categories: [Academic/Employment Status, Class, Global South, Family status, Wealth]
   weight: 1
   active: true
 - id: 129
   question: I rely on projects to get travel funding.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 130
   question: I work in a salaried job.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 131
   question: I have an MA.
-  categories: []
+  categories: [Academic/Employment Status]
   weight: 1
   active: true
 - id: 132
   question: My parents are both alive.
-  categories: []
+  categories: [Family status]
   weight: 1
   active: true
 - id: 133
   question: Other people perceive me as a "Westerner."
-  categories: []
+  categories: [Ethnicity]
   weight: 1
   active: true
 - id: 134
   question: I travel internationally multiple times a year.
-  categories: []
+  categories: [Academic/Employment Status, Class, Global South, Family status, Wealth]
   weight: 1
   active: true
