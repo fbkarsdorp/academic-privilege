@@ -771,41 +771,41 @@
   question: I studied in my own language.
   categories: [Academic/Employment Status, Class, Global South, Family status, Wealth]
   weight: 1
- answer: ? 
+ answer: no answer  
   active: true
 - id: 129
   question: I rely on projects to get travel funding.
   categories: [Academic/Employment Status]
   weight: 1
-  answer: ? 
+  answer: no answer  
   active: true
 - id: 130
   question: I work in a salaried job.
   categories: [Academic/Employment Status]
   weight: 1
-  answer: ? 
+  answer: no answer  
   active: true
 - id: 131
   question: I have an MA.
   categories: [Academic/Employment Status]
   weight: 1
-  answer: ? 
+  answer: no answer 
   active: true
 - id: 132
   question: My parents are both alive.
   categories: [Family status]
   weight: 1
-  answer: ? 
+  answer: no answer 
   active: true
 - id: 133
   question: I am alt-ac.
   categories: [Academic/Employment Status]
   weight: 1
-  answer: ? 
+  answer: no answer  
   active: true
 - id: 134
   question: I travel internationally multiple times a year.
   categories: [Academic/Employment Status, Class, Global South, Family status, Wealth]
   weight: 1
-  answer: ? 
+  answer: no answer 
   active: true
