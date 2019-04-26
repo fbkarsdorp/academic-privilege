@@ -5,9 +5,9 @@
   weight: 1
   answer: no
   options:
-  	yes: -1
-	no: 1
-	no answer: 0
+  				yes: -1
+				no: 1
+				no answer: 0
   active: true
 - id: 1
   question: Showing affection to my intimate partner in public could be dangerous to me physically.
