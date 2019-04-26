@@ -123,6 +123,10 @@
   categories: [Family status, Wealth]
   weight: 1
   answer: no
+  options:
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 13
   question: I was bullied as a child for some aspect of my personhood.
