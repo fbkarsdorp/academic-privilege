@@ -15,9 +15,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+  	yes: -1
+	no: 1
+	no answer: 0
   active: true
 - id: 2
   question: I have had to lie about my religion.
