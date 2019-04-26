@@ -34,9 +34,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 4
   question: Neither of my parents is an academic.
@@ -44,9 +44,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 5
   question: People comment on my appearance.
@@ -54,9 +54,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 6
   question: I have no access to training opportunities.
@@ -64,9 +64,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 7
   question: I can't use my native language at work.
@@ -74,9 +74,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 8
   question: I was unable to study in my own country.
@@ -84,13 +84,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
-  options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 9
   question: I rely on public transportation for financial reasons.
@@ -98,9 +94,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 10
   question: I have been forced to take roommate for financial reasons.
@@ -108,9 +104,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 11
   question: I have an eating disorder.
@@ -118,9 +114,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 12
   question: I have had to give up opportunities because of family responsibilities or commitments.
@@ -134,15 +130,19 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 14
   question: I have an invisible disability.
   categories: [Ability, Health]
   weight: 1
   answer: no
+  options:
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 15
   question: I have a learning disability.
@@ -150,9 +150,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 16
   question: People with my attributed or personal characteristics are more likely than others to be detained when crossing the border.
@@ -160,9 +160,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 17
   question: I have felt unsafe because of some attributed or personal characteristic.
@@ -170,9 +170,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 18
   question: I have or had high interest study loans (more than 25% APR).
@@ -180,9 +180,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 19
   question: I have an addiction.
@@ -190,9 +190,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 20
   question: I have gone to bed hungry.
@@ -200,15 +200,19 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 21
   question: I have been sexually assaulted.
   categories: [Ability, Gender, LGBTQ]
   weight: 1
   answer: no
+  options:
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 22
   question: People say I have an accent.
@@ -216,9 +220,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 23
   question: I had to move far from my family to work/study.
@@ -226,9 +230,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 24
   question: I have been shamed for my body type.
@@ -236,9 +240,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 25
   question: My attributed or personal characteristics attract unwanted attention.
@@ -246,9 +250,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 26
   question: I had to lie about my ethnicity.
@@ -256,9 +260,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 27
   question: I have been treated for an addiction.
@@ -266,19 +270,19 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 28
   question: Failures on my part are regularly attributed more broadly to people like me (e.g. "women can't do math").
   categories: [Ability, Class, Ethnicity, Gender, Global South, LGBTQ, Non-Anglophone, Religion, Wealth]
   weight: 1
   answer: no
-  options:
-		yes: -1
-		no: 1
-		no answer: 0
+  ooptions:
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 29
   question: I have a visible disability.
@@ -286,9 +290,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 30
   question: Showing affection to my intimate partner in public could damage my reputation.
@@ -296,9 +300,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 31
   question: I have had tried to distance myself from any of my identities.
@@ -306,9 +310,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 32
   question: I have been depressed.
@@ -316,15 +320,19 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 33
   question: I expect to need a visa when I travel.
   categories: [Global South]
   weight: 1
   answer: no
+  options:
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 34
   question: I had or have student loans.
@@ -332,9 +340,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 35
   question: People often call me bossy.
@@ -342,9 +350,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 36
   question: I worry about my colleagues finding out about my diagnosis.
@@ -352,9 +360,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 37
   question: A stranger has commented on my appearance or accent.
@@ -362,19 +370,19 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 38
   question: People seem surprised when I show competency.
   categories: [Ability, Ethnicity, Gender, Global South, LGBTQ, Non-Anglophone]
   weight: 1
   answer: no
-  options:
-		yes: -1
-		no: 1
-		no answer: 0
+  ooptions:
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 39
   question: I am nervous in airport security lines.
@@ -382,15 +390,19 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 40
   question: I have had my neurotype questioned.
   categories: [Ability]
   weight: 1
   answer: no
+  options:
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 41
   question: I have been unable to pay my bills.
@@ -398,9 +410,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 42
   question: Neither of my parents is college educated.
@@ -408,9 +420,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 43
   question: I can't afford to rent a car.
@@ -418,9 +430,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 44
   question: I have considered suicide.
@@ -428,9 +440,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 45
   question: Someone has touched me without permission.
@@ -438,9 +450,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 46
   question: People often call me aggressive.
@@ -448,15 +460,19 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 47
   question: I have been the only person like me in a room.
   categories: [Ability, Class, Ethnicity, Gender, LGBTQ, Non-Anglophone, Religion, Wealth]
   weight: 1
   answer: no
+  options:
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 48
   question: I have been homeless.
@@ -464,9 +480,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 49
   question: My institution does not have an institutional repository.
@@ -474,9 +490,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 50
   question: I worry about travelling alone.
@@ -484,9 +500,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 51
   question: I have been selected for secondary passport control.
@@ -494,9 +510,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 52
   question: I have had to support the educational costs of a sibling.
@@ -504,9 +520,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 53
   question: I commonly plan my route in advance when I walk or take public transit.
@@ -514,15 +530,19 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 54
   question: I have been violently threatened or attacked for one of my attributed characteristics.
   categories: [Ethnicity, Gender, LGBTQ]
   weight: 1
   answer: no
+  options:
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 55
   question: I have been cyber-bullied for any of my identities.
@@ -530,9 +550,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 56
   question: I have hidden some strength or skill I possess in order to be less threatening or to get along with others.
@@ -540,9 +560,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 57
   question: I have had to explain to others something about my appearance, gender, sexuality, or other aspects of my personal life.
@@ -550,9 +570,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 58
   question: I have had to educate peers about my condition.
@@ -560,9 +580,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 59
   question: I travel internationally for pleasure at my own cost.
@@ -570,9 +590,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 60
   question: I have heard my attributed characteristics used as an insult.
@@ -580,15 +600,19 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 61
   question: I support multiple generations in my family from my paycheck.
   categories: [Class, Family status, Wealth]
   weight: 1
   answer: no
+  options:
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 62
   question: I have been self-conscious about any of my identities.
@@ -596,9 +620,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 63
   question: My parents are separated or divorced.
@@ -606,9 +630,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 64
   question: I have been told that my sexuality is "just a phase."
@@ -616,9 +640,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 65
   question: I have been subject to sexual harassment on the street (i.e. been catcalled or solicited).
@@ -626,9 +650,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 66
   question: I grew up in a family that was considered poor for my country.
@@ -636,9 +660,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 67
   question: I have been shamed for my religious beliefs.
@@ -646,9 +670,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 68
   question: I know or suspect I earn less at my institution than colleagues with similar experience.
@@ -656,9 +680,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 69
   question: My pronouns have been questioned.
@@ -666,9 +690,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 70
   question: I am a native English speaker.
@@ -676,9 +700,9 @@
   weight: 1
   answer: no
   options:
-		yes: -1
-		no: 1
-		no answer: 0
+    yes: -1
+    no: 1
+    no answer: 0
   active: true
 - id: 71
   question: I went to summer camp.
@@ -686,9 +710,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 72
   question: My parents are heterosexual.
@@ -696,15 +720,19 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 73
   question: I have a conference travel budget.
   categories: [Academic/Employment Status]
   weight: 1
   answer: yes
+  options:
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 74
   question: I work/study at an academic institution.
@@ -712,9 +740,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 75
   question: I've used prescription drugs recreationally.
@@ -722,9 +750,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 76
   question: I went to an elite university.
@@ -732,9 +760,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 77
   question: I have a driver's licence.
@@ -742,9 +770,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 78
   question: One of my parents has a graduate degree.
@@ -752,9 +780,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 79
   question: My institution gives me access to graphic design services.
@@ -762,15 +790,19 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 80
   question: In my job/studies I have adequate child care.
   categories: [Academic/Employment Status, Class, Gender, Wealth]
   weight: 1
   answer: yes
+  options:
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 81
   question: I can afford to pay so my articles are published as open access.
@@ -778,9 +810,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 82
   question: My institution offers me free legal advice.
@@ -788,9 +820,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 83
   question: The childcare I have access to is free.
@@ -798,9 +830,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 84
   question: I have a PhD.
@@ -808,9 +840,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 85
   question: My institution supports research and/or conference travel.
@@ -818,9 +850,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 86
   question: My institution has data storage facilities.
@@ -828,15 +860,19 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 87
   question: I have travelled internationally.
   categories: [Academic/Employment Status, Class, Wealth]
   weight: 1
   answer: yes
+  options:
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 88
   question: I went to a private school.
@@ -844,9 +880,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 89
   question: My institution will replace my computer every 3 years.
@@ -854,9 +890,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 90
   question: I see myself reflected in mainstream media.
@@ -864,9 +900,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 91
   question: Both of my parents are academics.
@@ -874,9 +910,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 92
   question: My institution offers web hosting services.
@@ -884,9 +920,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 93
   question: I have access to a library.
@@ -894,15 +930,19 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 94
   question: I have elite status with an airline frequent flier plan.
   categories: [Academic/Employment Status, Class, Wealth]
   weight: 1
   answer: yes
+  options:
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 95
   question: My institution offers grant writing support.
@@ -910,9 +950,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 96
   question: My post is tenured.
@@ -920,9 +960,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 97
   question: My job accommodates my religious practices.
@@ -930,9 +970,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 98
   question: Both of my parents have graduate degrees.
@@ -940,9 +980,9 @@
   weight: 1
   answer: yes
   options:
-			yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 99
   question: I went to preschool.
@@ -950,9 +990,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 100
   question: My parents financed (at least some of) my high education costs.
@@ -960,15 +1000,19 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 101
   question: My post is tenure track.
   categories: [Academic/Employment Status]
   weight: 1
   answer: yes
+  options:
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 102
   question: I can access paywalled journals.
@@ -976,9 +1020,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 103
   question: One of my parents is college educated.
@@ -986,9 +1030,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 104
   question: If required, I have access to supercomputers.
@@ -996,9 +1040,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 105
   question: My institution pays for my affiliation to professional societies.
@@ -1006,9 +1050,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 106
   question: I have colleagues who are interested and supportive.
@@ -1016,9 +1060,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 107
   question: My institution is committed to the maintenance of digital projects.
@@ -1026,15 +1070,19 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 108
   question: My institution is a research institution.
   categories: [Academic/Employment Status]
   weight: 1
   answer: yes
+  options:
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 109
   question: I had a car in high school.
@@ -1042,9 +1090,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 110
   question: I work/study at an elite academic institution.
@@ -1052,9 +1100,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 111
   question: I have high-speed internet.
@@ -1062,9 +1110,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 112
   question: My institution offers technical support.
@@ -1072,9 +1120,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 113
   question: My institution offers internal grants for startup projects.
@@ -1082,9 +1130,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 114
   question: I have flexible working hours.
@@ -1092,9 +1140,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 115
   question: I carry out my work in my native language.
@@ -1102,9 +1150,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 116
   question: I have easy access to computers.
@@ -1122,9 +1170,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 118
   question: There is a place of worship for my religion in my town.
@@ -1132,9 +1180,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 119
   question: I can afford medication if/when I need it.
@@ -1142,9 +1190,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 120
   question: I can request the materials I need and these will be purchased for me.
@@ -1152,9 +1200,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 121
   question: I do not have any social disabilities.
@@ -1162,21 +1210,29 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 122
   question: My institution pays for my software licenses.
   categories: [Academic/Employment Status]
   weight: 1
   answer: yes
+  options:
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 123
   question: I have been able to make major life decisions based on my own desires.
   categories: [Wealth]
   weight: 1
   answer: yes
+  options:
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 124
   question: I can afford a therapist
@@ -1184,9 +1240,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 125
   question: I have studied abroad.
@@ -1194,9 +1250,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 126
   question: I have had an unpaid internship.
@@ -1204,9 +1260,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0
+    yes: 1
+    no: -1
+    no answer: 0
   active: true
 - id: 127
   question: Other people perceive me as a "Westerner."
@@ -1214,9 +1270,9 @@
   weight: 1
   answer: yes
   options:
-		yes: 1
-		no: -1
-		no answer: 0 
+    yes: 1
+    no: -1
+    no answer: 0 
   active: true
 - id: 128
   question: I studied in my own language.
