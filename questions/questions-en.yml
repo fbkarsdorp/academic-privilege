@@ -23,7 +23,8 @@
   question: I have had to lie about my religion.
   categories: [Ethnicity, Religion]
   weight: 1
-  answer: nooptions:
+  answer: no
+  options:
     yes: -1
     no: 1
     no answer: 0
