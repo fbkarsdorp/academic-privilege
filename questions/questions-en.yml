@@ -1,9 +1,6 @@
-
 - id: 0
   question: I have missed a rent payment because of lack of funds.
   categories: [Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -12,8 +9,6 @@
 - id: 1
   question: Showing affection to my intimate partner in public could be dangerous to me physically.
   categories: [Family status, Gender, LGBTQ, Religion]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -22,8 +17,6 @@
 - id: 2
   question: I have had to lie about my religion.
   categories: [Ethnicity, Religion]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -32,8 +25,6 @@
 - id: 3
   question: I have a casual or non-permanent position.
   categories: [Academic/Employment Status, Gender]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -42,8 +33,6 @@
 - id: 4
   question: Neither of my parents is an academic.
   categories: [Class, Family status, Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -52,8 +41,6 @@
 - id: 5
   question: People comment on my appearance.
   categories: [Ethnicity, Gender, LGBTQ]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -62,8 +49,6 @@
 - id: 6
   question: I have no access to training opportunities.
   categories: [Academic/Employment Status, Class, Global South, Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -72,8 +57,6 @@
 - id: 7
   question: I can't use my native language at work.
   categories: [Global South, Language, Non-Anglophone]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -82,8 +65,6 @@
 - id: 8
   question: I was unable to study in my own country.
   categories: [Global South]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -92,8 +73,6 @@
 - id: 9
   question: I rely on public transportation for financial reasons.
   categories: [Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -102,8 +81,6 @@
 - id: 10
   question: I have been forced to take roommate for financial reasons.
   categories: [Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -112,8 +89,6 @@
 - id: 11
   question: I have an eating disorder.
   categories: [Gender, Health]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -122,8 +97,6 @@
 - id: 12
   question: I have had to give up opportunities because of family responsibilities or commitments.
   categories: [Family status, Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -132,8 +105,6 @@
 - id: 13
   question: I was bullied as a child for some aspect of my personhood.
   categories: [Class, Ethnicity, Family status, Health, Language, LGBTQ]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -142,8 +113,6 @@
 - id: 14
   question: I have an invisible disability.
   categories: [Ability, Health]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -152,8 +121,6 @@
 - id: 15
   question: I have a learning disability.
   categories: [Ability]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -162,8 +129,6 @@
 - id: 16
   question: People with my attributed or personal characteristics are more likely than others to be detained when crossing the border.
   categories: [Ethnicity, Non-Anglophone, Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -172,8 +137,6 @@
 - id: 17
   question: I have felt unsafe because of some attributed or personal characteristic.
   categories: [Ability, Class, Ethnicity, Family status, Gender, Global South, Health, Language, LGBTQ, Non-Anglophone, Religion]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -182,8 +145,6 @@
 - id: 18
   question: I have or had high interest study loans (more than 25% APR).
   categories: [Global South]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -192,8 +153,6 @@
 - id: 19
   question: I have an addiction.
   categories: [Ability, Health]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -202,8 +161,6 @@
 - id: 20
   question: I have gone to bed hungry.
   categories: [Academic/Employment Status, Family status, Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -212,8 +169,6 @@
 - id: 21
   question: I have been sexually assaulted.
   categories: [Ability, Gender, LGBTQ]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -222,8 +177,6 @@
 - id: 22
   question: People say I have an accent.
   categories: [Class, Global South, Language, Non-Anglophone]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -232,8 +185,6 @@
 - id: 23
   question: I had to move far from my family to work/study.
   categories: [Global South]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -242,8 +193,6 @@
 - id: 24
   question: I have been shamed for my body type.
   categories: [Ability, Gender, LGBTQ, Health]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -252,8 +201,6 @@
 - id: 25
   question: My attributed or personal characteristics attract unwanted attention.
   categories: [Ability, Gender, LGBTQ, Health]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -262,8 +209,6 @@
 - id: 26
   question: I had to lie about my ethnicity.
   categories: [Ethnicity]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -272,8 +217,6 @@
 - id: 27
   question: I have been treated for an addiction.
   categories: [Ability, Health]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -282,8 +225,6 @@
 - id: 28
   question: Failures on my part are regularly attributed more broadly to people like me (e.g. "women can't do math").
   categories: [Ability, Class, Ethnicity, Gender, Global South, LGBTQ, Non-Anglophone, Religion, Wealth]
-  weight: 1
-  answer: no
   ooptions:
     yes: -1
     no: 1
@@ -292,8 +233,6 @@
 - id: 29
   question: I have a visible disability.
   categories: [Ability, Health]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -302,8 +241,6 @@
 - id: 30
   question: Showing affection to my intimate partner in public could damage my reputation.
   categories: [Gender]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -312,8 +249,6 @@
 - id: 31
   question: I have had tried to distance myself from any of my identities.
   categories: [Gender, LGBTQ, Ethnicity]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -322,8 +257,6 @@
 - id: 32
   question: I have been depressed.
   categories: [Ability, Health]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -332,8 +265,6 @@
 - id: 33
   question: I expect to need a visa when I travel.
   categories: [Global South]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -342,8 +273,6 @@
 - id: 34
   question: I had or have student loans.
   categories: [Class]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -352,8 +281,6 @@
 - id: 35
   question: People often call me bossy.
   categories: [Gender, LGBTQ, Ethnicity]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -362,8 +289,6 @@
 - id: 36
   question: I worry about my colleagues finding out about my diagnosis.
   categories: [Health]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -372,8 +297,6 @@
 - id: 37
   question: A stranger has commented on my appearance or accent.
   categories: [Gender, LGBTQ, Non-Anglophone, Religion]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -382,8 +305,6 @@
 - id: 38
   question: People seem surprised when I show competency.
   categories: [Ability, Ethnicity, Gender, Global South, LGBTQ, Non-Anglophone]
-  weight: 1
-  answer: no
   ooptions:
     yes: -1
     no: 1
@@ -392,8 +313,6 @@
 - id: 39
   question: I am nervous in airport security lines.
   categories: [Global South, LGBTQ, Non-Anglophone, Religion]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -402,8 +321,6 @@
 - id: 40
   question: I have had my neurotype questioned.
   categories: [Ability]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -412,8 +329,6 @@
 - id: 41
   question: I have been unable to pay my bills.
   categories: [Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -422,8 +337,6 @@
 - id: 42
   question: Neither of my parents is college educated.
   categories: [Class, Family status, Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -432,8 +345,6 @@
 - id: 43
   question: I can't afford to rent a car.
   categories: [Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -442,8 +353,6 @@
 - id: 44
   question: I have considered suicide.
   categories: [Ability, Health]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -452,8 +361,6 @@
 - id: 45
   question: Someone has touched me without permission.
   categories: [Ethnicity, Gender, LGBTQ]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -462,8 +369,6 @@
 - id: 46
   question: People often call me aggressive.
   categories: [Ethnicity, Gender, LGBTQ, Non-Anglophone]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -472,8 +377,6 @@
 - id: 47
   question: I have been the only person like me in a room.
   categories: [Ability, Class, Ethnicity, Gender, LGBTQ, Non-Anglophone, Religion, Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -482,8 +385,6 @@
 - id: 48
   question: I have been homeless.
   categories: [Family status, Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -492,8 +393,6 @@
 - id: 49
   question: My institution does not have an institutional repository.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -502,8 +401,6 @@
 - id: 50
   question: I worry about travelling alone.
   categories: [Ability, Ethnicity, Gender, LGBTQ, Non-Anglophone]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -512,8 +409,6 @@
 - id: 51
   question: I have been selected for secondary passport control.
   categories: [Class, Ethnicity, Global South, Non-Anglophone, Religion]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -522,8 +417,6 @@
 - id: 52
   question: I have had to support the educational costs of a sibling.
   categories: [Class, Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -532,8 +425,6 @@
 - id: 53
   question: I commonly plan my route in advance when I walk or take public transit.
   categories: [Ability, Ethnicity, Gender, LGBTQ, Religion]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -542,8 +433,6 @@
 - id: 54
   question: I have been violently threatened or attacked for one of my attributed characteristics.
   categories: [Ethnicity, Gender, LGBTQ]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -552,8 +441,6 @@
 - id: 55
   question: I have been cyber-bullied for any of my identities.
   categories: [Ability, Ethnicity, Gender, LGBTQ]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -562,8 +449,6 @@
 - id: 56
   question: I have hidden some strength or skill I possess in order to be less threatening or to get along with others.
   categories: [Gender, Health, LGBTQ]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -572,8 +457,6 @@
 - id: 57
   question: I have had to explain to others something about my appearance, gender, sexuality, or other aspects of my personal life.
   categories: [Ability, Ethnicity, Gender, Health, LGBTQ, Religion]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -582,8 +465,6 @@
 - id: 58
   question: I have had to educate peers about my condition.
   categories: [Ability, Health]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -592,8 +473,6 @@
 - id: 59
   question: I travel internationally for pleasure at my own cost.
   categories: [Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -602,8 +481,6 @@
 - id: 60
   question: I have heard my attributed characteristics used as an insult.
   categories: [Ethnicity, Gender, LGBTQ]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -612,8 +489,6 @@
 - id: 61
   question: I support multiple generations in my family from my paycheck.
   categories: [Class, Family status, Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -622,8 +497,6 @@
 - id: 62
   question: I have been self-conscious about any of my identities.
   categories: [Ability, Gender, LGBTQ]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -632,8 +505,6 @@
 - id: 63
   question: My parents are separated or divorced.
   categories: [Family status]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -642,8 +513,6 @@
 - id: 64
   question: I have been told that my sexuality is "just a phase."
   categories: [LGBTQ]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -652,8 +521,6 @@
 - id: 65
   question: I have been subject to sexual harassment on the street (i.e. been catcalled or solicited).
   categories: [Ethnicity, Gender, LGBTQ]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -662,8 +529,6 @@
 - id: 66
   question: I grew up in a family that was considered poor for my country.
   categories: [Class, Wealth]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -672,8 +537,6 @@
 - id: 67
   question: I have been shamed for my religious beliefs.
   categories: [Religion]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -682,8 +545,6 @@
 - id: 68
   question: I know or suspect I earn less at my institution than colleagues with similar experience.
   categories: [Ethnicity, Gender, LGBTQ]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -692,8 +553,6 @@
 - id: 69
   question: My pronouns have been questioned.
   categories: [LGBTQ]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -702,8 +561,6 @@
 - id: 70
   question: I am a native English speaker.
   categories: [Global South, Language, Non-Anglophone]
-  weight: 1
-  answer: no
   options:
     yes: -1
     no: 1
@@ -712,8 +569,6 @@
 - id: 71
   question: I went to summer camp.
   categories: [Class, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -722,8 +577,6 @@
 - id: 72
   question: My parents are heterosexual.
   categories: [Family status, Gender, LGBTQ]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -732,8 +585,6 @@
 - id: 73
   question: I have a conference travel budget.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -742,8 +593,6 @@
 - id: 74
   question: I work/study at an academic institution.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -752,8 +601,6 @@
 - id: 75
   question: I've used prescription drugs recreationally.
   categories: [Class, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -762,8 +609,6 @@
 - id: 76
   question: I went to an elite university.
   categories: [Academic/Employment Status, Class, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -772,8 +617,6 @@
 - id: 77
   question: I have a driver's licence.
   categories: [Ability, Health, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -782,8 +625,6 @@
 - id: 78
   question: One of my parents has a graduate degree.
   categories: [Academic/Employment Status, Family status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -792,8 +633,6 @@
 - id: 79
   question: My institution gives me access to graphic design services.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -802,8 +641,6 @@
 - id: 80
   question: In my job/studies I have adequate child care.
   categories: [Academic/Employment Status, Class, Gender, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -812,8 +649,6 @@
 - id: 81
   question: I can afford to pay so my articles are published as open access.
   categories: [Academic/Employment Status, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -822,8 +657,6 @@
 - id: 82
   question: My institution offers me free legal advice.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -832,8 +665,6 @@
 - id: 83
   question: The childcare I have access to is free.
   categories: [Academic/Employment Status, Class, Gender, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -842,8 +673,6 @@
 - id: 84
   question: I have a PhD.
   categories: [Academic/Employment Status, Class, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -852,8 +681,6 @@
 - id: 85
   question: My institution supports research and/or conference travel.
   categories: [Academic/Employment Status, Class, Global South, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -862,8 +689,6 @@
 - id: 86
   question: My institution has data storage facilities.
   categories: [Academic/Employment Status, Class, Global South, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -872,8 +697,6 @@
 - id: 87
   question: I have travelled internationally.
   categories: [Academic/Employment Status, Class, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -882,8 +705,6 @@
 - id: 88
   question: I went to a private school.
   categories: [Academic/Employment Status, Class, Religion, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -892,8 +713,6 @@
 - id: 89
   question: My institution will replace my computer every 3 years.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -902,8 +721,6 @@
 - id: 90
   question: I see myself reflected in mainstream media.
   categories: [Ability, Class, Ethnicity, Family Status, Gender, Global South, Health, Language, LGBTQ, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -912,8 +729,6 @@
 - id: 91
   question: Both of my parents are academics.
   categories: [Academic/Employment Status, Class, Family Status, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -922,8 +737,6 @@
 - id: 92
   question: My institution offers web hosting services.
   categories: [Academic/Employment Status, Global South]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -932,8 +745,6 @@
 - id: 93
   question: I have access to a library.
   categories: [Academic/Employment Status, Class, Global South, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -942,8 +753,6 @@
 - id: 94
   question: I have elite status with an airline frequent flier plan.
   categories: [Academic/Employment Status, Class, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -952,8 +761,6 @@
 - id: 95
   question: My institution offers grant writing support.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -962,8 +769,6 @@
 - id: 96
   question: My post is tenured.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -972,8 +777,6 @@
 - id: 97
   question: My job accommodates my religious practices.
   categories: [Class, Ethnicity, Religion]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -982,8 +785,6 @@
 - id: 98
   question: Both of my parents have graduate degrees.
   categories: [Class, Family Status, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -992,8 +793,6 @@
 - id: 99
   question: I went to preschool.
   categories: [Class, Family Status, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1002,8 +801,6 @@
 - id: 100
   question: My parents financed (at least some of) my high education costs.
   categories: [Class, Family Status, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1012,8 +809,6 @@
 - id: 101
   question: My post is tenure track.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1022,8 +817,6 @@
 - id: 102
   question: I can access paywalled journals.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1032,8 +825,6 @@
 - id: 103
   question: One of my parents is college educated.
   categories: [Family Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1042,8 +833,6 @@
 - id: 104
   question: If required, I have access to supercomputers.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1052,8 +841,6 @@
 - id: 105
   question: My institution pays for my affiliation to professional societies.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1062,8 +849,6 @@
 - id: 106
   question: I have colleagues who are interested and supportive.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1072,8 +857,6 @@
 - id: 107
   question: My institution is committed to the maintenance of digital projects.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1082,8 +865,6 @@
 - id: 108
   question: My institution is a research institution.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1092,8 +873,6 @@
 - id: 109
   question: I had a car in high school.
   categories: [Class, Family Status, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1102,8 +881,6 @@
 - id: 110
   question: I work/study at an elite academic institution.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1112,8 +889,6 @@
 - id: 111
   question: I have high-speed internet.
   categories: [Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1122,8 +897,6 @@
 - id: 112
   question: My institution offers technical support.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1132,8 +905,6 @@
 - id: 113
   question: My institution offers internal grants for startup projects.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1142,8 +913,6 @@
 - id: 114
   question: I have flexible working hours.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1152,8 +921,6 @@
 - id: 115
   question: I carry out my work in my native language.
   categories: [Language, Non-Anglophone]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1162,8 +929,6 @@
 - id: 116
   question: I have easy access to computers.
   categories: [Academic/Employment Status, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1172,8 +937,6 @@
 - id: 117
   question: I travel internationally at least once a year.
   categories: [Academic/Employment Status, Family status, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1182,8 +945,6 @@
 - id: 118
   question: There is a place of worship for my religion in my town.
   categories: [Religion]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1192,8 +953,6 @@
 - id: 119
   question: I can afford medication if/when I need it.
   categories: [Health, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1202,8 +961,6 @@
 - id: 120
   question: I can request the materials I need and these will be purchased for me.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1212,8 +969,6 @@
 - id: 121
   question: I do not have any social disabilities.
   categories: [Ability, Health]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1222,8 +977,6 @@
 - id: 122
   question: My institution pays for my software licenses.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1232,8 +985,6 @@
 - id: 123
   question: I have been able to make major life decisions based on my own desires.
   categories: [Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1242,8 +993,6 @@
 - id: 124
   question: I can afford a therapist
   categories: [Academic/Employment Status, Family status, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1252,8 +1001,6 @@
 - id: 125
   question: I have studied abroad.
   categories: [Class, Family status, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1262,8 +1009,6 @@
 - id: 126
   question: I have had an unpaid internship.
   categories: [Class, Family status, Wealth]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1272,8 +1017,6 @@
 - id: 127
   question: Other people perceive me as a "Westerner."
   categories: [Ethnicity]
-  weight: 1
-  answer: yes
   options:
     yes: 1
     no: -1
@@ -1282,42 +1025,28 @@
 - id: 128
   question: I studied in my own language.
   categories: [Academic/Employment Status, Class, Global South, Family status, Wealth]
-  weight: 1
-  answer: no answer  
   active: true
 - id: 129
   question: I rely on projects to get travel funding.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: no answer  
   active: true
 - id: 130
   question: I work in a salaried job.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: no answer  
   active: true
 - id: 131
   question: I have an MA.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: no answer 
   active: true
 - id: 132
   question: My parents are both alive.
   categories: [Family status]
-  weight: 1
-  answer: no answer 
   active: true
 - id: 133
   question: I am alt-ac.
   categories: [Academic/Employment Status]
-  weight: 1
-  answer: no answer  
   active: true
 - id: 134
   question: I travel internationally multiple times a year.
   categories: [Academic/Employment Status, Class, Global South, Family status, Wealth]
-  weight: 1
-  answer: no answer 
   active: true
