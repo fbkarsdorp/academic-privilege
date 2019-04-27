@@ -17,9 +17,11 @@ adhere to the following schema:
 - id: the id of the question as an integer, e.g.: 1
   question: The actual question presented to the participants
   categories: a list of categories this question belongs to, e.g., [sexuality, language, education]
-  weight: a weight on a scale of 1 to 5 reflecting the importance of this question
   active: true or false
-  answer: yes or no
+  options:
+    yes: 1 (weight)
+    no: -1 (weight)
+    no answer: 0 (weight)
 ```
 
 ## Contributing
