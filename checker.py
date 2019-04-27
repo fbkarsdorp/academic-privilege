@@ -5,7 +5,7 @@ import yaml
 for question_file in os.scandir('questions'):
     if question_file.name.endswith('.yml'):
         with open(question_file.path) as f:
-            data = yaml.load(f)
+            data = yaml.safe_load(f)
 
         for question in data:
             if question['id'] is None:
