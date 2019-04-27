@@ -225,7 +225,7 @@
 - id: 28
   question: Failures on my part are regularly attributed more broadly to people like me (e.g. "women can't do math").
   categories: [Ability, Class, Ethnicity, Gender, Global South, LGBTQ, Non-Anglophone, Religion, Wealth]
-  ooptions:
+  options:
     yes: -1
     no: 1
     no answer: 0
@@ -305,7 +305,7 @@
 - id: 38
   question: People seem surprised when I show competency.
   categories: [Ability, Ethnicity, Gender, Global South, LGBTQ, Non-Anglophone]
-  ooptions:
+  options:
     yes: -1
     no: 1
     no answer: 0
