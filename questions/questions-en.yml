@@ -31,7 +31,7 @@
     no answer: 0
   active: true
 - id: 4
-  question: Neither of my parents is an academic.
+  question: At least one of my parents is an academic.
   categories: [Class, Family status, Wealth]
   options:
     yes: -1
