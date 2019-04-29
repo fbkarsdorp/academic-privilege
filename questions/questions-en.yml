@@ -55,11 +55,11 @@
     no answer: 0
   active: true
 - id: 7
-  question: I can't use my native language at work.
+  question: I can use my native language at work.
   categories: [Global South, Language, Non-Anglophone]
   options:
-    yes: -1
-    no: 1
+    yes: 1
+    no: -1
     no answer: 0
   active: true
 - id: 8
@@ -335,19 +335,19 @@
     no answer: 0
   active: true
 - id: 42
-  question: Neither of my parents is college educated.
+  question: At least one of my parents is college educated.
   categories: [Class, Family status, Wealth]
   options:
-    yes: -1
-    no: 1
+    yes: 1
+    no: -1
     no answer: 0
   active: true
 - id: 43
-  question: I can't afford to rent a car.
+  question: I can afford to rent a car.
   categories: [Wealth]
   options:
-    yes: -1
-    no: 1
+    yes: 1
+    no: -1
     no answer: 0
   active: true
 - id: 44
@@ -391,11 +391,11 @@
     no answer: 0
   active: true
 - id: 49
-  question: My institution does not have an institutional repository.
+  question: My institution has an institutional repository.
   categories: [Academic/Employment Status]
   options:
-    yes: -1
-    no: 1
+    yes: 1
+    no: -1
     no answer: 0
   active: true
 - id: 50
