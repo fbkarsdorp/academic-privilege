@@ -47,11 +47,11 @@
     no answer: 0
   active: true
 - id: 6
-  question: I have no access to training opportunities.
+  question: I have access to training opportunities.
   categories: [Academic/Employment Status, Class, Global South, Wealth]
   options:
-    yes: -1
-    no: 1
+    yes: 1
+    no: -1
     no answer: 0
   active: true
 - id: 7
