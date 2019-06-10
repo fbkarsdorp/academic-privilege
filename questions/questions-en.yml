@@ -474,8 +474,8 @@
   question: I travel internationally for pleasure at my own cost.
   categories: [Wealth]
   options:
-    yes: -1
-    no: 1
+    yes: 1
+    no: -1
     no answer: 0
   active: true
 - id: 60
