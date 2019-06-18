@@ -34,8 +34,8 @@
   question: At least one of my parents is an academic.
   categories: [Class, Family status, Wealth]
   options:
-    yes: -1
-    no: 1
+    yes: 1
+    no: -1
     no answer: 0
   active: true
 - id: 5
