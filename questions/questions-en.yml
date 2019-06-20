@@ -562,8 +562,8 @@
   question: I am a native English speaker.
   categories: [Global South, Language, Non-Anglophone]
   options:
-    yes: -1
-    no: 1
+    yes: 1
+    no: -1
     no answer: 0
   active: true
 - id: 71
