@@ -1,3 +1,9 @@
-Welcome to gdpr-info.eu. Here you can find the official PDF of the Regulation (EU) 2016/679 (General Data Protection Regulation) in the current version of the OJ L 119, 04.05.2016; cor. OJ L 127, 23.5.2018 as a neatly arranged website. All Articles of the GDPR are linked with suitable recitals. The European Data Protection Regulation is applicable as of May 25th, 2018 in all member states to harmonize data privacy laws across Europe. If you find the page useful, feel free to support us by sharing the project.
-
-[https://gdpr-info.eu/](https://gdpr-info.eu/)
+- This browser is your link to your data, here we will store the necessary references to your data on our server.
+- You can stop and delete all your data any time you want, as long as your profile is still active in your browser.
+- When playing solo, none of your answers or profile data will be traceable to you for other users. Your answers to the questions will only be visible for others as part of the general statistics.
+- When playing in a group, only your **name** and your **privilege position** will be visible for other participants in the group. Your profile information will not be shared, neither will individual answers to the questions.
+- When you use a public computer, make sure you logout before you leave. You can do this in **My Profile** page at **logout**
+- When you logout, your name will be anonimised in the groups you joined. Your position will still be visible under the name X plus the time and date when you left the group.
+- When you've logged out and asked to delete all your data, all your data will be removed from our servers and the groups you joined.
+- We will not share any of your data with a third party. 
+- The data will only be available, anonymised, for academic research.
