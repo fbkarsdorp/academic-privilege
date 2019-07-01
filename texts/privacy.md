@@ -10,9 +10,6 @@
   shared, neither will individual answers to the questions. 
 - When you use a public computer, make sure you logout before you leave. You can do this
   in **My Profile** page at **logout** 
-- When you logout, your name will be anonymised in the groups you joined. Your position
-  will still be visible under the anonymised name plus the time and date when you left the
-  group. 
 - When you've logged out and asked to delete all your data, all your data will be removed
   from our servers and the groups you joined. 
 - We will not share any of your data with third parties.
