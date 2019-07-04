@@ -8,7 +8,7 @@
   active: true
 - id: 1
   question: Showing affection to my intimate partner in public could be dangerous to me physically.
-  categories: [Family status, Gender, LGBTQ, Religion]
+  categories: [Family Status, Gender, LGBTQ, Religion]
   options:
     yes: -1
     no: 1
@@ -32,7 +32,7 @@
   active: true
 - id: 4
   question: At least one of my parents is an academic.
-  categories: [Class, Family status, Wealth]
+  categories: [Class, Family Status, Wealth]
   options:
     yes: 1
     no: -1
@@ -96,7 +96,7 @@
   active: true
 - id: 12
   question: I have had to give up opportunities because of family responsibilities or commitments.
-  categories: [Family status, Wealth]
+  categories: [Family Status, Wealth]
   options:
     yes: -1
     no: 1
@@ -104,7 +104,7 @@
   active: true
 - id: 13
   question: I was bullied as a child for some aspect of my personhood.
-  categories: [Class, Ethnicity, Family status, Health, Language, LGBTQ]
+  categories: [Class, Ethnicity, Family Status, Health, Language, LGBTQ]
   options:
     yes: -1
     no: 1
@@ -136,7 +136,7 @@
   active: true
 - id: 17
   question: I have felt unsafe because of some attributed or personal characteristic.
-  categories: [Ability, Class, Ethnicity, Family status, Gender, Global South, Health, Language, LGBTQ, Non-Anglophone, Religion]
+  categories: [Ability, Class, Ethnicity, Family Status, Gender, Global South, Health, Language, LGBTQ, Non-Anglophone, Religion]
   options:
     yes: -1
     no: 1
@@ -160,7 +160,7 @@
   active: true
 - id: 20
   question: I have gone to bed hungry.
-  categories: [Academic/Employment Status, Family status, Wealth]
+  categories: [Academic/Employment Status, Family Status, Wealth]
   options:
     yes: -1
     no: 1
@@ -336,7 +336,7 @@
   active: true
 - id: 42
   question: At least one of my parents is college educated.
-  categories: [Class, Family status, Wealth]
+  categories: [Class, Family Status, Wealth]
   options:
     yes: 1
     no: -1
@@ -384,7 +384,7 @@
   active: true
 - id: 48
   question: I have been homeless.
-  categories: [Family status, Wealth]
+  categories: [Family Status, Wealth]
   options:
     yes: -1
     no: 1
@@ -488,7 +488,7 @@
   active: true
 - id: 61
   question: I support multiple generations in my family from my paycheck.
-  categories: [Class, Family status, Wealth]
+  categories: [Class, Family Status, Wealth]
   options:
     yes: -1
     no: 1
@@ -504,7 +504,7 @@
   active: true
 - id: 63
   question: My parents are separated or divorced.
-  categories: [Family status]
+  categories: [Family Status]
   options:
     yes: -1
     no: 1
@@ -576,7 +576,7 @@
   active: true
 - id: 72
   question: My parents are heterosexual.
-  categories: [Family status, Gender, LGBTQ]
+  categories: [Family Status, Gender, LGBTQ]
   options:
     yes: 1
     no: -1
@@ -624,7 +624,7 @@
   active: true
 - id: 78
   question: One of my parents has a graduate degree.
-  categories: [Academic/Employment Status, Family status]
+  categories: [Academic/Employment Status, Family Status]
   options:
     yes: 1
     no: -1
@@ -936,7 +936,7 @@
   active: true
 - id: 117
   question: I travel internationally at least once a year.
-  categories: [Academic/Employment Status, Family status, Wealth]
+  categories: [Academic/Employment Status, Family Status, Wealth]
   options:
     yes: 1
     no: -1
@@ -992,7 +992,7 @@
   active: true
 - id: 124
   question: I can afford a therapist
-  categories: [Academic/Employment Status, Family status, Wealth]
+  categories: [Academic/Employment Status, Family Status, Wealth]
   options:
     yes: 1
     no: -1
@@ -1000,7 +1000,7 @@
   active: true
 - id: 125
   question: I have studied abroad.
-  categories: [Class, Family status, Wealth]
+  categories: [Class, Family Status, Wealth]
   options:
     yes: 1
     no: -1
@@ -1008,7 +1008,7 @@
   active: true
 - id: 126
   question: I have had an unpaid internship.
-  categories: [Class, Family status, Wealth]
+  categories: [Class, Family Status, Wealth]
   options:
     yes: 1
     no: -1
@@ -1024,7 +1024,7 @@
   active: true
 - id: 128
   question: I studied in my own language.
-  categories: [Academic/Employment Status, Class, Global South, Family status, Wealth]
+  categories: [Academic/Employment Status, Class, Global South, Family Status, Wealth]
   active: false
 - id: 129
   question: I rely on projects to get travel funding.
@@ -1040,7 +1040,7 @@
   active: false
 - id: 132
   question: My parents are both alive.
-  categories: [Family status]
+  categories: [Family Status]
   active: false
 - id: 133
   question: I am alt-ac.
@@ -1048,5 +1048,5 @@
   active: false
 - id: 134
   question: I travel internationally multiple times a year.
-  categories: [Academic/Employment Status, Class, Global South, Family status, Wealth]
+  categories: [Academic/Employment Status, Class, Global South, Family Status, Wealth]
   active: false
