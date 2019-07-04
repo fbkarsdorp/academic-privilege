@@ -14,7 +14,4 @@ joinroom: Are you sure you want to join this group?
 joinedalready: You've joined this group already.
 logoutnodata: There's no need to logout without any data submitted.
 cookienotification: This website uses cookies to ensure you get the best experience.
-genders:
-  female: 1
-  male: 2
-  other: 3
+genders: [woman, man, non-binary, transgender, intersex, gender non-conforming]
