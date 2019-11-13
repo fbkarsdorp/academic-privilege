@@ -142,14 +142,14 @@
     no: 1
     no answer: 0
   active: true
-- id: 18
-  question: I have or had high interest study loans (more than 25% APR).
-  categories: [Global South]
-  options:
-    yes: -1
-    no: 1
-    no answer: 0
-  active: true
+# - id: 18
+#   question: I have or had high interest study loans (more than 25% APR).
+#   categories: [Global South]
+#   options:
+#     yes: -1
+#     no: 1
+#     no answer: 0
+#   active: false
 - id: 19
   question: I have an addiction.
   categories: [Ability, Health]
@@ -334,14 +334,14 @@
     no: 1
     no answer: 0
   active: true
-- id: 42
-  question: At least one of my parents is college educated.
-  categories: [Class, Family Status, Wealth]
-  options:
-    yes: 1
-    no: -1
-    no answer: 0
-  active: true
+# - id: 42
+#   question: At least one of my parents is college educated.
+#   categories: [Class, Family Status, Wealth]
+#   options:
+#     yes: 1
+#     no: -1
+#     no answer: 0
+#   active: true
 - id: 43
   question: I can afford to rent a car.
   categories: [Wealth]
@@ -566,14 +566,14 @@
     no: -1
     no answer: 0
   active: true
-- id: 71
-  question: I went to summer camp.
-  categories: [Class, Wealth]
-  options:
-    yes: 1
-    no: -1
-    no answer: 0
-  active: true
+# - id: 71
+#   question: I went to summer camp.
+#   categories: [Class, Wealth]
+#   options:
+#     yes: 1
+#     no: -1
+#     no answer: 0
+#   active: true
 - id: 72
   question: My parents are heterosexual.
   categories: [Family Status, Gender, LGBTQ]
@@ -606,14 +606,14 @@
     no: -1
     no answer: 0
   active: true
-- id: 76
-  question: I went to an elite university.
-  categories: [Academic/Employment Status, Class, Wealth]
-  options:
-    yes: 1
-    no: -1
-    no answer: 0
-  active: true
+# - id: 76
+#   question: I went to an elite university.
+#   categories: [Academic/Employment Status, Class, Wealth]
+#   options:
+#     yes: 1
+#     no: -1
+#     no answer: 0
+#   active: true
 - id: 77
   question: I have a driver's licence.
   categories: [Ability, Health, Wealth]
@@ -622,14 +622,14 @@
     no: -1
     no answer: 0
   active: true
-- id: 78
-  question: One of my parents has a graduate degree.
-  categories: [Academic/Employment Status, Family Status]
-  options:
-    yes: 1
-    no: -1
-    no answer: 0
-  active: true
+# - id: 78
+#   question: One of my parents has a graduate degree.
+#   categories: [Academic/Employment Status, Family Status]
+#   options:
+#     yes: 1
+#     no: -1
+#     no answer: 0
+#   active: true
 - id: 79
   question: My institution gives me access to graphic design services.
   categories: [Academic/Employment Status]
@@ -702,14 +702,14 @@
     no: -1
     no answer: 0
   active: true
-- id: 88
-  question: I went to a private school.
-  categories: [Academic/Employment Status, Class, Religion, Wealth]
-  options:
-    yes: 1
-    no: -1
-    no answer: 0
-  active: true
+# - id: 88
+#   question: I went to a private school.
+#   categories: [Academic/Employment Status, Class, Religion, Wealth]
+#   options:
+#     yes: 1
+#     no: -1
+#     no answer: 0
+#   active: true
 - id: 89
   question: My institution will replace my computer every 3 years.
   categories: [Academic/Employment Status]
@@ -822,14 +822,14 @@
     no: -1
     no answer: 0
   active: true
-- id: 103
-  question: One of my parents is college educated.
-  categories: [Family Status]
-  options:
-    yes: 1
-    no: -1
-    no answer: 0
-  active: true
+# - id: 103
+#   question: One of my parents is college educated.
+#   categories: [Family Status]
+#   options:
+#     yes: 1
+#     no: -1
+#     no answer: 0
+#   active: true
 - id: 104
   question: If required, I have access to supercomputers.
   categories: [Academic/Employment Status]
@@ -870,14 +870,14 @@
     no: -1
     no answer: 0
   active: true
-- id: 109
-  question: I had a car in high school.
-  categories: [Class, Family Status, Wealth]
-  options:
-    yes: 1
-    no: -1
-    no answer: 0
-  active: true
+# - id: 109
+#   question: I had a car in high school.
+#   categories: [Class, Family Status, Wealth]
+#   options:
+#     yes: 1
+#     no: -1
+#     no answer: 0
+#   active: true
 - id: 110
   question: I work/study at an elite academic institution.
   categories: [Academic/Employment Status]
@@ -1042,10 +1042,10 @@
   question: My parents are both alive.
   categories: [Family Status]
   active: false
-- id: 133
-  question: I am alt-ac.
-  categories: [Academic/Employment Status]
-  active: false
+# - id: 133
+#   question: I am alt-ac.
+#   categories: [Academic/Employment Status]
+#   active: false
 - id: 134
   question: I travel internationally multiple times a year.
   categories: [Academic/Employment Status, Class, Global South, Family Status, Wealth]
